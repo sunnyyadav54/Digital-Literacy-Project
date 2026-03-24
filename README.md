@@ -15,3 +15,7 @@ digital portfolio creation, coding platforms, email etiquette, and cybercrime aw
 - task-4-email-etiquette/
 - task-5-cybercrime/
 - report/
+
+## Task 3 – Digital Literacy Quiz
+
+Google Form Link: https://forms.gle/9atneHCa9FnniTC17
